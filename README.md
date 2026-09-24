@@ -3,7 +3,25 @@
 Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.com/practice).
 
 <!-- xomdata:stats:start -->
-_Not synced yet — connect this repo at [xomdata.com/settings](https://xomdata.com/settings) and hit **Sync**._
+
+**7** problems solved on [Xom Data](https://xomdata.com/practice).
+
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| SQL | 3 | 4 | 0 | 0 | 7 |
+
+**Recently solved**
+
+- [medium-casewhen-047](https://xomdata.com/practice/medium-casewhen-047) · Medium · 2026-09-24
+- [medium-subquery-160](https://xomdata.com/practice/medium-subquery-160) · Medium · 2026-09-24
+- [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-09-24
+- [medium-cohort-001](https://xomdata.com/practice/medium-cohort-001) · Medium · 2026-09-21
+- [easy-where-010](https://xomdata.com/practice/easy-where-010) · Easy · 2026-09-21
+- [easy-limit-001](https://xomdata.com/practice/easy-limit-001) · Easy · 2026-09-21
+- [easy-isnull-002](https://xomdata.com/practice/easy-isnull-002) · Easy · 2026-09-21
+
+_Synced 7 solutions · last update 2026-09-24_
+
 <!-- xomdata:stats:end -->
 
 ## About this repo

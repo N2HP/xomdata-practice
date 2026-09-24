@@ -1,1 +1,9 @@
-{}
+{
+  "practice/sql/easy/easy-isnull-002/solution.sql": "246fdd99e3cb09ef57b7853719bf9c4ed0508228ab50b58d14f1d5b00c7fd787",
+  "practice/sql/easy/easy-limit-001/solution.sql": "aeafba1cc1cf806782612c04b48edbb6a50707035b44ba3456b7410a0483dea1",
+  "practice/sql/easy/easy-where-010/solution.sql": "624dfcd437269371d93bdc25dba933aff860a5291d42961e721133f0e248cb94",
+  "practice/sql/medium/medium-cohort-001/solution.sql": "90036360fb2ddf6818fafc7dfa88e3abadc0e5f1c6f2b2087af2e9456a29f4c3",
+  "practice/sql/medium/medium-case-160/solution.sql": "e394659d4f5c94ee270d1008295c105f081ea6385b2eedd5625671b990be2be0",
+  "practice/sql/medium/medium-subquery-160/solution.sql": "6cb536490882bf74df4778049f0d594aacfacd2553d6034d569a2f0dbddd7d5a",
+  "practice/sql/medium/medium-casewhen-047/solution.sql": "4bbb2db104576dfd8d395c67121012583bd730e1abbc74235e7839b7e5d2a601"
+}
