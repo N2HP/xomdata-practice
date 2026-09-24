@@ -5,5 +5,7 @@
   "practice/sql/medium/medium-cohort-001/solution.sql": "90036360fb2ddf6818fafc7dfa88e3abadc0e5f1c6f2b2087af2e9456a29f4c3",
   "practice/sql/medium/medium-case-160/solution.sql": "e394659d4f5c94ee270d1008295c105f081ea6385b2eedd5625671b990be2be0",
   "practice/sql/medium/medium-subquery-160/solution.sql": "6cb536490882bf74df4778049f0d594aacfacd2553d6034d569a2f0dbddd7d5a",
-  "practice/sql/medium/medium-casewhen-047/solution.sql": "4bbb2db104576dfd8d395c67121012583bd730e1abbc74235e7839b7e5d2a601"
+  "practice/sql/medium/medium-casewhen-047/solution.sql": "4bbb2db104576dfd8d395c67121012583bd730e1abbc74235e7839b7e5d2a601",
+  "practice/sql/medium/medium-having-128/solution.sql": "8c513d416e32e44bf9cdf968c055031faf8c0e326f8136f809d13d82bd4f179e",
+  "practice/sql/medium/medium-join-076/solution.sql": "41e455ce59dc617f780d6f6fc871b07e2189105e23869c3af8e9d4d0abcd1505"
 }
