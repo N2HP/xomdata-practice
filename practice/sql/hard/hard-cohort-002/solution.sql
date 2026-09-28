@@ -1,4 +1,4 @@
--- Xom Data · Bảng theo dõi khách quay lại theo thế hệ
+-- Xom Data · Repeat-customer tracking table by cohort
 -- Problem: https://xomdata.com/practice/hard-cohort-002
 -- Solved: 2026-09-28
 

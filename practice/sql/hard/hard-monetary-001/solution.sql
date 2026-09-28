@@ -1,4 +1,4 @@
--- Xom Data · Chia khách thành năm hạng chi tiêu
+-- Xom Data · Splitting customers into five spend tiers
 -- Problem: https://xomdata.com/practice/hard-monetary-001
 -- Solved: 2026-09-28
 

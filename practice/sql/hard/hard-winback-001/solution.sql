@@ -1,4 +1,4 @@
--- Xom Data · Những người quay về sau hai tháng im ắng
+-- Xom Data · Those who returned after two months of silence
 -- Problem: https://xomdata.com/practice/hard-winback-001
 -- Solved: 2026-09-28
 

@@ -1,4 +1,4 @@
--- Xom Data · Giá trị trọn đời trung bình của mỗi thế hệ
+-- Xom Data · Average lifetime value by cohort
 -- Problem: https://xomdata.com/practice/hard-ltv-001
 -- Solved: 2026-09-28
 

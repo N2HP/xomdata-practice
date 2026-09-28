@@ -1,4 +1,4 @@
--- Xom Data · Nhịp mua hàng và tín hiệu rời bỏ
+-- Xom Data · Purchase rhythm and churn signal
 -- Problem: https://xomdata.com/practice/hard-gap-001
 -- Solved: 2026-09-28
 
