@@ -1,4 +1,4 @@
--- Xom Data · Quãng im lặng dài nhất của mỗi khách
+-- Xom Data · The longest silence period for each customer
 -- Problem: https://xomdata.com/practice/hard-gap-002
 -- Solved: 2026-09-29
 

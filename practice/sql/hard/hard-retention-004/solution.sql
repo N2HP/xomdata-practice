@@ -1,4 +1,4 @@
--- Xom Data · Ma trận tỷ lệ quay lại ba tháng đầu
+-- Xom Data · First three-month return-rate matrix
 -- Problem: https://xomdata.com/practice/hard-retention-004
 -- Solved: 2026-09-29
 

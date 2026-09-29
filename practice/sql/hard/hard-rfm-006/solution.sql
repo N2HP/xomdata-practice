@@ -1,4 +1,4 @@
--- Xom Data · Bản đồ tám nhóm khách hàng
+-- Xom Data · The eight-segment customer map
 -- Problem: https://xomdata.com/practice/hard-rfm-006
 -- Solved: 2026-09-29
 
