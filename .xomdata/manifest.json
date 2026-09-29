@@ -20,5 +20,8 @@
   "practice/sql/hard/hard-cohort-002/solution.sql": "fe0d56ac43d24791cbfbfe1da841bf8989dcc512b393c7db6aeffdcec6352257",
   "practice/sql/hard/hard-gap-001/solution.sql": "f2839204213d37143eff39e99f3dde5933d0a09e8fed20c147017b573ecd522c",
   "practice/sql/hard/hard-monetary-001/solution.sql": "2269e5cca6ad18b27c296a723c36837bf3966a2164be7f61391dcf156c35b915",
-  "practice/sql/hard/hard-winback-001/solution.sql": "3e1fee74f403673c780ed0d46b12baa8640c356893f1b9b154a01e58fb979aee"
+  "practice/sql/hard/hard-winback-001/solution.sql": "3e1fee74f403673c780ed0d46b12baa8640c356893f1b9b154a01e58fb979aee",
+  "practice/sql/hard/hard-ltv-001/solution.sql": "984af94e43b0b5b1b2a159371e605ae3f80786d9b3f5d576c212c7020f305825",
+  "practice/sql/hard/hard-retention-004/solution.sql": "5db71577485ce5106da629723ed953972cc3543612c7873ae6a16c09becd32d2",
+  "practice/sql/hard/hard-gap-002/solution.sql": "981ff0911090b69131c2fbfecbc53f4cf0f01ce24b7772f375283f925c77e2ed"
 }
