@@ -1,4 +1,4 @@
--- Xom Data · Thế hệ khách nhìn theo kênh dẫn về
+-- Xom Data · Customer cohorts viewed by acquisition channel
 -- Problem: https://xomdata.com/practice/hard-cohort-004
 -- Solved: 2026-10-02
 
