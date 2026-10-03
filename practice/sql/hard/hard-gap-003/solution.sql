@@ -1,4 +1,4 @@
--- Xom Data · Dự đoán ngày khách ghé tiếp theo
+-- Xom Data · Predicting the customer's next visit date
 -- Problem: https://xomdata.com/practice/hard-gap-003
 -- Solved: 2026-10-03
 

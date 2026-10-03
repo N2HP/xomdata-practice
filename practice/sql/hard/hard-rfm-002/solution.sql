@@ -1,4 +1,4 @@
--- Xom Data · Xếp khách vào nhóm chăm sóc phù hợp
+-- Xom Data · Assigning customers to the right care segment
 -- Problem: https://xomdata.com/practice/hard-rfm-002
 -- Solved: 2026-10-03
 
