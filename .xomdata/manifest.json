@@ -24,5 +24,10 @@
   "practice/sql/hard/hard-ltv-001/solution.sql": "984af94e43b0b5b1b2a159371e605ae3f80786d9b3f5d576c212c7020f305825",
   "practice/sql/hard/hard-retention-004/solution.sql": "5db71577485ce5106da629723ed953972cc3543612c7873ae6a16c09becd32d2",
   "practice/sql/hard/hard-gap-002/solution.sql": "981ff0911090b69131c2fbfecbc53f4cf0f01ce24b7772f375283f925c77e2ed",
-  "practice/sql/hard/hard-rfm-006/solution.sql": "9d1ff3806a59e2d4328e12a546c4b22a8c62660c7a1ddd39898e71b9dc89d4b7"
+  "practice/sql/hard/hard-rfm-006/solution.sql": "9d1ff3806a59e2d4328e12a546c4b22a8c62660c7a1ddd39898e71b9dc89d4b7",
+  "practice/sql/hard/hard-cohort-004/solution.sql": "fad647f306a3b07460cb8555e5064e9de3be17ac2ac342fecd2e41493cd3ca7b",
+  "practice/sql/hard/hard-gap-003/solution.sql": "f893a2d586d17f823f406e6639c8c9fe640024fc694191375fee14e64260f936",
+  "practice/sql/hard/hard-rfm-002/solution.sql": "d0dfbebbeb5c19db2c07aad988ce3764ee46fac7b2ac375a065dec053e843f54",
+  "practice/sql/hard/hard-rfm-001/solution.sql": "252e74f08e1bcaf196d87b343925b6b3d7d34f5ca5bd3d6379a8e25d16e8b00a",
+  "practice/sql/hard/hard-ltv-002/solution.sql": "994adbea45df85d9a5ca984a9b207ce59f20dc1ddb4095e6dca34e879b1b8180"
 }

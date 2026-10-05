@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**26** problems solved on [Xom Data](https://xomdata.com/practice).
+**31** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 3 | 15 | 8 | 0 | 26 |
+| SQL | 3 | 15 | 13 | 0 | 31 |
 
 **Recently solved**
 
+- [hard-ltv-002](https://xomdata.com/practice/hard-ltv-002) · Hard · 2026-10-05
+- [hard-rfm-001](https://xomdata.com/practice/hard-rfm-001) · Hard · 2026-10-05
+- [hard-rfm-002](https://xomdata.com/practice/hard-rfm-002) · Hard · 2026-10-03
+- [hard-gap-003](https://xomdata.com/practice/hard-gap-003) · Hard · 2026-10-03
+- [hard-cohort-004](https://xomdata.com/practice/hard-cohort-004) · Hard · 2026-10-02
 - [hard-rfm-006](https://xomdata.com/practice/hard-rfm-006) · Hard · 2026-09-29
 - [hard-gap-002](https://xomdata.com/practice/hard-gap-002) · Hard · 2026-09-29
 - [hard-retention-004](https://xomdata.com/practice/hard-retention-004) · Hard · 2026-09-29
 - [hard-ltv-001](https://xomdata.com/practice/hard-ltv-001) · Hard · 2026-09-28
 - [hard-winback-001](https://xomdata.com/practice/hard-winback-001) · Hard · 2026-09-28
-- [hard-monetary-001](https://xomdata.com/practice/hard-monetary-001) · Hard · 2026-09-28
-- [hard-gap-001](https://xomdata.com/practice/hard-gap-001) · Hard · 2026-09-28
-- [hard-cohort-002](https://xomdata.com/practice/hard-cohort-002) · Hard · 2026-09-28
-- [medium-join-141](https://xomdata.com/practice/medium-join-141) · Medium · 2026-09-26
-- [medium-join-155](https://xomdata.com/practice/medium-join-155) · Medium · 2026-09-26
 
-_Synced 26 solutions · last update 2026-09-29_
+_Synced 31 solutions · last update 2026-10-05_
 
 <!-- xomdata:stats:end -->
 
