@@ -1,4 +1,4 @@
--- Xom Data · Dòng tiền tích luỹ theo tuổi thế hệ
+-- Xom Data · Cumulative revenue by cohort age
 -- Problem: https://xomdata.com/practice/hard-ltv-002
 -- Solved: 2026-10-05
 

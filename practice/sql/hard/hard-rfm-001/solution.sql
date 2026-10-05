@@ -1,4 +1,4 @@
--- Xom Data · Chấm điểm khách hàng trên ba thước đo
+-- Xom Data · Scoring customers across three measures
 -- Problem: https://xomdata.com/practice/hard-rfm-001
 -- Solved: 2026-10-05
 
