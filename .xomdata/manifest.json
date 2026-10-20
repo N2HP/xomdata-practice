@@ -32,5 +32,7 @@
   "practice/sql/hard/hard-ltv-002/solution.sql": "f20f43fc42a9556136626c9d9d9f58e2e20fa0d3307ba3ba61308d8261fe6399",
   "practice/sql/hard/hard-fifo-001/solution.sql": "6bfb73126911ac4299830c9a807833753fd0489f535f95b2ece4fdef97b37842",
   "practice/sql/hard/hard-hierarchical-001/solution.sql": "92499b07591918a42f89abddea9c9e453dd6c1d5628782a92a3f4ca6c51ea383",
-  "practice/sql/hard/hard-retention-002/solution.sql": "4142132f15ad0f30b7c3d83995292f711ee6e5deaa8fd43c09f5e6cb66d4ee52"
+  "practice/sql/hard/hard-retention-002/solution.sql": "4142132f15ad0f30b7c3d83995292f711ee6e5deaa8fd43c09f5e6cb66d4ee52",
+  "practice/sql/hard/hard-rfm-004/solution.sql": "fcd1abb86e8e4921e5bb377da637c719cdc74ccc32d276063a2160e600d6ed08",
+  "practice/sql/hard/hard-retention-003/solution.sql": "ec38e5bcd06e169a6bb81821d1bdcc184e2bbdcf01ab3264e09252830b886a36"
 }
