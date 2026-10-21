@@ -4,14 +4,15 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**36** problems solved on [Xom Data](https://xomdata.com/practice).
+**37** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 3 | 15 | 18 | 0 | 36 |
+| SQL | 3 | 15 | 19 | 0 | 37 |
 
 **Recently solved**
 
+- [hard-churn-003](https://xomdata.com/practice/hard-churn-003) · Hard · 2026-10-21
 - [hard-retention-003](https://xomdata.com/practice/hard-retention-003) · Hard · 2026-10-20
 - [hard-rfm-004](https://xomdata.com/practice/hard-rfm-004) · Hard · 2026-10-19
 - [hard-retention-002](https://xomdata.com/practice/hard-retention-002) · Hard · 2026-10-13
@@ -21,9 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-rfm-001](https://xomdata.com/practice/hard-rfm-001) · Hard · 2026-10-05
 - [hard-rfm-002](https://xomdata.com/practice/hard-rfm-002) · Hard · 2026-10-03
 - [hard-gap-003](https://xomdata.com/practice/hard-gap-003) · Hard · 2026-10-03
-- [hard-cohort-004](https://xomdata.com/practice/hard-cohort-004) · Hard · 2026-10-02
 
-_Synced 36 solutions · last update 2026-10-20_
+_Synced 37 solutions · last update 2026-10-21_
 
 <!-- xomdata:stats:end -->
 
