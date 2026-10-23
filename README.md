@@ -4,14 +4,15 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**41** problems solved on [Xom Data](https://xomdata.com/practice).
+**42** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 3 | 15 | 23 | 0 | 41 |
+| SQL | 3 | 15 | 24 | 0 | 42 |
 
 **Recently solved**
 
+- [hard-churn-002](https://xomdata.com/practice/hard-churn-002) · Hard · 2026-10-23
 - [hard-rfm-005](https://xomdata.com/practice/hard-rfm-005) · Hard · 2026-10-22
 - [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-10-22
 - [hard-retention-005](https://xomdata.com/practice/hard-retention-005) · Hard · 2026-10-22
@@ -21,9 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-rfm-004](https://xomdata.com/practice/hard-rfm-004) · Hard · 2026-10-19
 - [hard-retention-002](https://xomdata.com/practice/hard-retention-002) · Hard · 2026-10-13
 - [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-10-13
-- [hard-fifo-001](https://xomdata.com/practice/hard-fifo-001) · Hard · 2026-10-08
 
-_Synced 41 solutions · last update 2026-10-22_
+_Synced 42 solutions · last update 2026-10-23_
 
 <!-- xomdata:stats:end -->
 

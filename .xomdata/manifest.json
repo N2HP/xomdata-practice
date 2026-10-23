@@ -39,5 +39,6 @@
   "practice/sql/hard/hard-churn-001/solution.sql": "e4509046a7270a215d5264f62bccb8553dfd70c4965b2cc040e15e01a2e16c1e",
   "practice/sql/hard/hard-retention-005/solution.sql": "6b471a4d308fb12c9c8c07e3ff867b1cc2796df43883127f771d68e1ce6948bd",
   "practice/sql/hard/hard-rfm-003/solution.sql": "2b5d829300188fe351f01ffad58676801dd31ed062e98ac7394728bcd18d8b6a",
-  "practice/sql/hard/hard-rfm-005/solution.sql": "b06a16b8d470d5070439539ddbf7565e4c9af41960778d7f46a0bc141f3496de"
+  "practice/sql/hard/hard-rfm-005/solution.sql": "b06a16b8d470d5070439539ddbf7565e4c9af41960778d7f46a0bc141f3496de",
+  "practice/sql/hard/hard-churn-002/solution.sql": "edc43dffed63bb976933dfaa5bb843b28efdf8e2711c612cbb9a94449f2a23c5"
 }
