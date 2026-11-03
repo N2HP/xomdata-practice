@@ -40,5 +40,8 @@
   "practice/sql/hard/hard-retention-005/solution.sql": "6b471a4d308fb12c9c8c07e3ff867b1cc2796df43883127f771d68e1ce6948bd",
   "practice/sql/hard/hard-rfm-003/solution.sql": "2b5d829300188fe351f01ffad58676801dd31ed062e98ac7394728bcd18d8b6a",
   "practice/sql/hard/hard-rfm-005/solution.sql": "b06a16b8d470d5070439539ddbf7565e4c9af41960778d7f46a0bc141f3496de",
-  "practice/sql/hard/hard-churn-002/solution.sql": "edc43dffed63bb976933dfaa5bb843b28efdf8e2711c612cbb9a94449f2a23c5"
+  "practice/sql/hard/hard-churn-002/solution.sql": "edc43dffed63bb976933dfaa5bb843b28efdf8e2711c612cbb9a94449f2a23c5",
+  "practice/sql/easy/easy-join-003/solution.sql": "84b7097f67802c28034225c1d69360bb4d1ba642e001c39db0e0fb19944c3f4c",
+  "practice/sql/hard/hard-streak-001/solution.sql": "88f28256b58be3062de3ebebf318e0ac5c726ef696157a68d98e4110cb5d24b3",
+  "practice/sql/hard/hard-anomaly-001/solution.sql": "c12fbf3dd63d3dad44b1e4b0ba6736e37525044b8a81f538a6a9a75e0e5e9b7e"
 }
